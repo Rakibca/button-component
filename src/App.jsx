@@ -9,6 +9,9 @@ function App() {
       <Button color="black" borderColor="black">
         Confirm Now
       </Button>
+      <Button color="green" borderColor="green">
+        Go Back
+      </Button>
     </div>
   );
 }
